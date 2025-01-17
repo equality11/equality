@@ -1,3 +1,6 @@
+/asasx.php
+/22.php
+/baxa1.php
 /x.php
 /e.php
 /0.php
