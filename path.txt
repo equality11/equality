@@ -232,4 +232,4 @@ wp-content/themes/pridmag/
 wp-content/plugins/dummyyummy/
 wp-content/plugins/pwnd/
 wp-content/languages/themes/
-
+wp-content/plugins/erinyani/
