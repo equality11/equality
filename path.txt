@@ -191,7 +191,6 @@ credentials/credentials/
 wp-includes/certificates/
 wp-content/mu-plugins-old/
 wls-wsat/CoordinatorPortType/
-bongkar.biz.id/public/_ignition/health-check/
 wp-content/themes/classic/inc/
 wp-content/plugins/ninja-forms/
 wp-includes/sitemaps/providers/
