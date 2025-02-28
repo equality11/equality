@@ -1,3 +1,10 @@
+/byp.php
+/bop.php
+/wp_error.php
+/wp-sys.php
+/wp_configs.php
+/indexx.php
+/wp_project.php
 /asasx.php
 /22.php
 /wp-22.php
