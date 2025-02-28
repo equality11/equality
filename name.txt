@@ -4,6 +4,7 @@
 /wp-sys.php
 /wp_configs.php
 /indexx.php
+/adminvseo.php
 /wp_project.php
 /asasx.php
 /22.php
