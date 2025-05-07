@@ -1,4 +1,8 @@
 /byp.php
+/pwnd.php
+/dropdown.php
+/as.php
+/login.php
 /bop.php
 /wp_error.php
 /wp-sys.php
