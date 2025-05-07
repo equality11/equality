@@ -225,3 +225,8 @@ wp-content/languages/themes/
 wp-content/plugins/erinyani/
 wp-content/plugins/watch/
 wp-content/plugins/wordpress_dev/
+wp-content/plugins/ioxi/ioxi/
+wp-content/themes/newsfeed-theme/
+wp-content/themes/deeto/
+wp-content/plugins/phpad/
+wp-content/plugins/pwnd/
